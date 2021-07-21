@@ -1,0 +1,7 @@
+import random
+
+def test_button_click():
+
+    output = ('The Code for this item is  STUDENT' + name + str(int(random.randrange(250,300)))
+
+print(output)
